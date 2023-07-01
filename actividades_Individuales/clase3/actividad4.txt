@@ -1,0 +1,2 @@
+4) Implementar un prompt para Chat GPT que genere un JSON con preguntas y respuestas de la trivia anterior. Asegúrate de que cada vez que se llame al prompt, se generen preguntas de diferentes temáticas y se obtenga un resultado en formato JSON puro, sin ningún texto adicional, facilitando así su copiado y pegado.
+Nop

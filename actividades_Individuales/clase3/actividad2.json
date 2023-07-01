@@ -1,0 +1,30 @@
+{
+  "teamName": "Equipo2",
+  "teamNumber":2,
+  "members": [
+    {
+      "name": "goldy",
+      "discordUser": "Goldy#0521"
+    },
+    {
+      "name": "Gini",
+      "discordUser": ".unachica"
+    },
+    {
+      "name": "Ulises",
+      "discordUser": "Ulises#3110"
+    },
+    {
+      "name": "Dani Morales",
+      "discordUser": "danieladsm6"
+    },
+    {
+      "name": "Bárbara",
+      "discordUser": "EV∆#3667"
+    },
+    {
+      "name": "GasparBianco",
+      "discordUser": "mobspawn1"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "academyName": "Next Lang",
+  "academyPhone":[156734756,154456234],
+  "academyAddress":   {
+      "street": "principal 123",
+      "city": "Villa Carlos Paz"
+    },
+  "academyCourses": [
+    {
+      "title":"Inglés básico",
+      "description": "Este curso introductorio está diseñado para principiantes",
+      "category":"ingles",
+      "level": "basico",
+      "duration": {
+        "quantity":4,
+        "unit":"semanas"
+      },
+      "price":{
+        "currency":"USD",
+        "mount":100
+      }
+    },
+    {
+      "title":"Inglés Avanzado",
+      "description": "Este curso está diseñado para estudiantes avanzados",
+      "category":"ingles",
+      "level": "avanzados",
+      "duration": {
+        "quantity":20,
+        "unit":"semanas"
+      },
+      "price":{
+        "currency":"USD",
+        "mount":400
+      }
+    },
+    {
+      "title":"Italiano básico",
+      "description": "Este curso introductorio está diseñado para principiantes",
+      "category":"ingles",
+      "level": "basico",
+      "duration": {
+        "quantity":5,
+        "unit":"semanas"
+      },
+      "price":{
+        "currency":"USD",
+        "mount":120
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "statement": "¿En la escena de la pelea en la arena de luz, ¿contra quién pelea Sam Flynn?",
+      "options": [
+        {
+          "id": "a",
+          "description": "a) Rinzler"
+        },
+        {
+          "id": "b",
+          "description": "b) CLU"
+        },
+        {
+          "id": "c",
+          "description": "c) Castor"
+        },
+        {
+          "id": "d",
+          "description": "d) Zuse"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation": "En la escena de la pelea en la arena de luz, Sam Flynn pelea contra Rinzler, que en realidad es Tron, reprogramado por CLU."
+    },
+    {
+      "statement": "¿En la escena de la batalla en la pista de discos, ¿quién lidera el equipo de resistencia contra CLU?",
+      "options": [
+        {
+          "id": "a",
+          "description": "a) Sam Flynn"
+        },
+        {
+          "id": "b",
+          "description": "b) Quorra"
+        },
+        {
+          "id": "c",
+          "description": "c) Kevin Flynn"
+        },
+        {
+          "id": "d",
+          "description": "d) Tron"
+        }
+      ],
+      "correct_answer": "d",
+      "explanation": "En la escena de la batalla en la pista de discos, Tron lidera el equipo de resistencia contra CLU, mostrando su lealtad hacia los usuarios."
+    },
+    {
+      "statement": "¿En la escena final, ¿dónde esconden Sam y Quorra la memoria de Tron?",
+      "options": [
+        {
+          "id": "a",
+          "description": "a) En un disco de identidad"
+        },
+        {
+          "id": "b",
+          "description": "b) En una nave espacial"
+        },
+        {
+          "id": "c",
+          "description": "c) En el portal hacia el mundo real"
+        },
+        {
+          "id": "d",
+          "description": "d) En el núcleo de El Rejilla"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "En la escena final, Sam y Quorra esconden la memoria de Tron en el portal hacia el mundo real, asegurándose de que su legado perdure."
+    }
+  ]
+}
+
+
+
+
+
+
