@@ -5,6 +5,7 @@ import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import java.sql.Date;
+import java.time.LocalDateTime;
 
 @Data
 @Entity
@@ -18,7 +19,7 @@ public class Prospecto {
     @Column(name = "email")
     public String email;
 
-    @DateTimeFormat(pattern = "yyyy-MM-dd H:i:s")
+    @DateTimeFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss")
     @Column(name = "deletedAt")
-    public Date deletedAt;
+    public LocalDateTime deletedAt;
 }

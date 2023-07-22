@@ -19,6 +19,10 @@ public class NewsLetterController {
         if(!emailValidator.esValido(email)){
             return  "Email no Valido";
         }
+
+        if(emailRepository.isSuscribe(email)){
+            return  "Email existe";
+        }
         emailRepository.guardarEmail(email);
         return "Email guardado" + prospecto.getEmail();
     }
@@ -30,6 +34,10 @@ public class NewsLetterController {
         String email = prospecto.getEmail();
         if(!emailValidator.esValido(email)){
             return  "Email no Valido";
+        }
+
+        if(!emailRepository.isSuscribe(email)){
+            return  "Email no existe";
         }
 
         emailRepository.eliminarEmail(email);
